@@ -1,0 +1,22 @@
+[
+  ["Veg Biryani", "Raita", "Coke"],
+  ["Veg Biryani", "Raita"],
+  ["Veg Biryani", "Masala Papad", "Coke"],
+  ["Veg Biryani", "Raita", "Masala Papad"],
+  ["Chicken Biryani", "Coke"],
+  ["Chicken Biryani", "Raita"],
+  ["Pizza", "Garlic Bread", "Pepsi"],
+  ["Pizza", "Garlic Bread"],
+  ["Burger", "Fries", "Coke"],
+  ["Burger", "Fries"],
+  ["Burger", "Coke"],
+  ["Veg Biryani", "Coke"],
+  ["Veg Biryani", "Raita", "Coke", "Masala Papad"],
+  ["Pizza", "Pepsi"],
+  ["Chicken Biryani", "Coke", "Raita"],
+  ["Burger", "Fries", "Pepsi"],
+  ["Veg Biryani", "Raita", "Coke"],
+  ["Veg Biryani", "Raita"],
+  ["Pizza", "Garlic Bread", "Pepsi"],
+  ["Burger", "Fries"]
+]

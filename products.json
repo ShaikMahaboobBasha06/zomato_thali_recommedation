@@ -1,0 +1,112 @@
+[
+  {
+    "id": "veg-biryani",
+    "name": "Veg Biryani",
+    "category": "Biryani",
+    "price": 220,
+    "rating": 4.4,
+    "description": "Fragrant basmati rice slow-cooked with mixed vegetables and layered biryani spices.",
+    "image": "https://source.unsplash.com/collection/food/400x300?vegetable-biryani",
+    "fallbackImage": "https://loremflickr.com/400/300/vegetablebiryani,rice",
+    "emoji": "🍛"
+  },
+  {
+    "id": "raita",
+    "name": "Raita",
+    "category": "Sides",
+    "price": 60,
+    "rating": 4.2,
+    "description": "Cool, whisked yogurt with cucumber, roasted cumin and a hint of mint.",
+    "image": "https://loremflickr.com/400/300/raita,yogurt",
+    "fallbackImage": "https://loremflickr.com/400/300/yogurt,indian",
+    "emoji": "🥣"
+  },
+  {
+    "id": "coke",
+    "name": "Coke",
+    "category": "Beverages",
+    "price": 40,
+    "rating": 4.6,
+    "description": "Ice-cold Coca-Cola, 300ml — the classic biryani companion.",
+    "image": "https://loremflickr.com/400/300/cocacola,soda",
+    "fallbackImage": "https://loremflickr.com/400/300/cola,drink",
+    "emoji": "🥤"
+  },
+  {
+    "id": "masala-papad",
+    "name": "Masala Papad",
+    "category": "Sides",
+    "price": 70,
+    "rating": 4.3,
+    "description": "Crispy roasted papad topped with onions, tomatoes, and tangy chutney.",
+    "image": "https://loremflickr.com/400/300/papad,indiansnack",
+    "fallbackImage": "https://loremflickr.com/400/300/indiansnack",
+    "emoji": "🫓"
+  },
+  {
+    "id": "chicken-biryani",
+    "name": "Chicken Biryani",
+    "category": "Biryani",
+    "price": 280,
+    "rating": 4.7,
+    "description": "Spiced basmati rice layered with tender, marinated chicken.",
+    "image": "https://loremflickr.com/400/300/chickenbiryani",
+    "fallbackImage": "https://loremflickr.com/400/300/biryani,rice",
+    "emoji": "🍗"
+  },
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "category": "Italian",
+    "price": 250,
+    "rating": 4.5,
+    "description": "Wood-fired crust topped with molten mozzarella and fresh vegetables.",
+    "image": "https://loremflickr.com/400/300/pizza",
+    "fallbackImage": "https://loremflickr.com/400/300/pizza,cheese",
+    "emoji": "🍕"
+  },
+  {
+    "id": "garlic-bread",
+    "name": "Garlic Bread",
+    "category": "Italian",
+    "price": 120,
+    "rating": 4.3,
+    "description": "Toasted bread brushed with garlic butter and Italian herbs.",
+    "image": "https://loremflickr.com/400/300/garlicbread",
+    "fallbackImage": "https://loremflickr.com/400/300/bread,garlic",
+    "emoji": "🥖"
+  },
+  {
+    "id": "pepsi",
+    "name": "Pepsi",
+    "category": "Beverages",
+    "price": 40,
+    "rating": 4.4,
+    "description": "Chilled Pepsi, 300ml — crisp and refreshing.",
+    "image": "https://loremflickr.com/400/300/pepsi,soda",
+    "fallbackImage": "https://loremflickr.com/400/300/cola,drink",
+    "emoji": "🥤"
+  },
+  {
+    "id": "burger",
+    "name": "Burger",
+    "category": "Fast Food",
+    "price": 150,
+    "rating": 4.5,
+    "description": "Juicy grilled patty with melted cheese, lettuce, and house sauce.",
+    "image": "https://loremflickr.com/400/300/burger",
+    "fallbackImage": "https://loremflickr.com/400/300/hamburger",
+    "emoji": "🍔"
+  },
+  {
+    "id": "fries",
+    "name": "Fries",
+    "category": "Fast Food",
+    "price": 90,
+    "rating": 4.4,
+    "description": "Crispy golden French fries, salted to perfection.",
+    "image": "https://loremflickr.com/400/300/frenchfries",
+    "fallbackImage": "https://loremflickr.com/400/300/fries,potato",
+    "emoji": "🍟"
+  }
+]

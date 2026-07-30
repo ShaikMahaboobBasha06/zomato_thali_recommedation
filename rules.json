@@ -1,0 +1,79 @@
+[
+  {
+    "antecedents": [
+      "Fries"
+    ],
+    "consequents": [
+      "Burger"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 4.0
+  },
+  {
+    "antecedents": [
+      "Burger"
+    ],
+    "consequents": [
+      "Fries"
+    ],
+    "support": 0.2,
+    "confidence": 0.8,
+    "lift": 4.0
+  },
+  {
+    "antecedents": [
+      "Raita"
+    ],
+    "consequents": [
+      "Veg Biryani"
+    ],
+    "support": 0.3,
+    "confidence": 0.75,
+    "lift": 1.875
+  },
+  {
+    "antecedents": [
+      "Veg Biryani"
+    ],
+    "consequents": [
+      "Raita"
+    ],
+    "support": 0.3,
+    "confidence": 0.75,
+    "lift": 1.875
+  },
+  {
+    "antecedents": [
+      "Veg Biryani"
+    ],
+    "consequents": [
+      "Coke"
+    ],
+    "support": 0.25,
+    "confidence": 0.625,
+    "lift": 1.3889
+  },
+  {
+    "antecedents": [
+      "Coke"
+    ],
+    "consequents": [
+      "Veg Biryani"
+    ],
+    "support": 0.25,
+    "confidence": 0.5556,
+    "lift": 1.3889
+  },
+  {
+    "antecedents": [
+      "Raita"
+    ],
+    "consequents": [
+      "Coke"
+    ],
+    "support": 0.2,
+    "confidence": 0.5,
+    "lift": 1.1111
+  }
+]

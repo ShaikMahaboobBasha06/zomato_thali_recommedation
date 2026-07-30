@@ -1,0 +1,72 @@
+[
+  {
+    "items": [
+      "Coke"
+    ],
+    "support": 0.45
+  },
+  {
+    "items": [
+      "Raita"
+    ],
+    "support": 0.4
+  },
+  {
+    "items": [
+      "Veg Biryani"
+    ],
+    "support": 0.4
+  },
+  {
+    "items": [
+      "Raita",
+      "Veg Biryani"
+    ],
+    "support": 0.3
+  },
+  {
+    "items": [
+      "Burger"
+    ],
+    "support": 0.25
+  },
+  {
+    "items": [
+      "Coke",
+      "Veg Biryani"
+    ],
+    "support": 0.25
+  },
+  {
+    "items": [
+      "Fries"
+    ],
+    "support": 0.2
+  },
+  {
+    "items": [
+      "Pepsi"
+    ],
+    "support": 0.2
+  },
+  {
+    "items": [
+      "Pizza"
+    ],
+    "support": 0.2
+  },
+  {
+    "items": [
+      "Coke",
+      "Raita"
+    ],
+    "support": 0.2
+  },
+  {
+    "items": [
+      "Burger",
+      "Fries"
+    ],
+    "support": 0.2
+  }
+]
